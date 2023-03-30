@@ -15,4 +15,5 @@ When starting the application, the mobile catalog is displayed. Each mobile is p
 At the top of the page is a spinner indicating that the data is being loaded. Once the data is loaded, the spinner disappears and the mobiles are displayed in the catalog.
 
 # Link to Server:
+https://github.com/AaronBarcos/technical-challenge-server.git
 
